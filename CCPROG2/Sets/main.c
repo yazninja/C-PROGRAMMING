@@ -106,11 +106,11 @@ void intersect (int *A, int *B, int *C, int nA, int nB, int * nC)
   {
 	min = i; 
 	for (j = i + 1; j < *nC; j++) 
-	if (C[min] > C[j])
+	if (*(C + min) > *(C + j))
 	min = j;
-	temp = C[i];
-	C[i] = C[min];
-	C[min] = temp;
+	temp = *C + i);
+	*(C + i) = *(C + min);
+	*(C + min) = temp;
   }
 
   for (i = 0; i< *nC; i++) // delete duplicate in array C[]
