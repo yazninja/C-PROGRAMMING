@@ -1,0 +1,11 @@
+Enter number of days worked this month: Day 1 worked 600 minutes = 10 hours and 0 minutes
+Day 2 worked 116 minutes = 1 hours and 56 minutes
+Day 3 worked 600 minutes = 10 hours and 0 minutes
+Day 4 worked 225 minutes = 3 hours and 45 minutes
+Day 5 worked 70 minutes = 1 hours and 10 minutes
+Day 6 worked 100 minutes = 1 hours and 40 minutes
+Day 7 worked 541 minutes = 9 hours and 1 minutes
+Day 8 worked 739 minutes = 12 hours and 19 minutes
+Day 9 worked 419 minutes = 6 hours and 59 minutes
+Day 10 worked 720 minutes = 12 hours and 0 minutes
+4130 total minutes worked this month = 68 hours and 50 minutes
